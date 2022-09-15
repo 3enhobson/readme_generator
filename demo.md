@@ -1,6 +1,10 @@
-# README Generator
+# ${data.projectName}
+
+![License](https://img.shields.io/badge/License-${data.license}-green)
 
 ## Table of Contents 
+
+* [Description](#Description)
 
 * [Installation](#installation)
 
@@ -8,16 +12,20 @@
 
 * [License](#license)
 
-* [Contributing](#contributing)
+* [Contribute](#contribute)
 
 * [Tests](#tests)
 
 * [Questions](#questions)
 
+## Description
+  
+ ${data.description}
+
 ## Installation
 
 ```
-npm install
+${data.install}
 ```
 
 ## Usage
@@ -25,5 +33,29 @@ npm install
 Here's how to start the app.
 
 ```
-npm start
+${data.use}
 ```
+
+## License
+ ``` 
+${data.license}
+```
+
+## Contribute
+``` 
+${data.contribute}
+```
+
+ ## Test
+```  
+${data.test}
+```
+
+## Questions
+
+Contact me with any questions.
+
+Email: ${data.email}
+
+Github: https://github.com/${data.username}
+
