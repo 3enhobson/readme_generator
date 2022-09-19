@@ -1,18 +1,18 @@
-# ercrcef
+# readMe-Generator
 
-  
+  ![License](https://img.shields.io/badge/License-MIT-green)
 
   ## Table of Contents 
   
-  * [Description](#Description)
+  * [Description](#description)
   
   * [Installation](#installation)
-  
-  * [Usage](#usage)
-  
-  
+ 
+  * [License](#license)
   
   * [Contribute](#contribute)
+
+  * [Usage](#usage)
   
   * [Tests](#tests)
   
@@ -20,7 +20,7 @@
   
   ## Description
     
-   cefefcc
+   This project uses node.js to install inquirer which enabled us to prompt a user with questions pertaining to a certain project they are working on. Using the data collected, the program generates a README.md file. 
   
   ## Installation
   
@@ -28,30 +28,26 @@
    npm i
    ```
   
+   ## Test
+   ``` 
+    npm test
+   ```
+   
    ## Usage
   
-   Here's how to start the app.
-  
-   ```
-   xffwcdw
-   ```
+   Start by entering "node index" into an instance of terminal that is integrated with the index.js file.
     
-    
+   ## License 
+This project is licensed under the MIT license 
   
    ## Contribute
     
-   fxrr
+   N/A
    
-  
-   ## Test
-  ``` 
-   npm test
-   ```
-  
-  ## Questions
+   ## Questions
   
    Contact me with any questions.
   
    Email: bhobson818@gmail.com
   
-   Github: https://github.com/3en
+   Github: https://github.com/3enhobson

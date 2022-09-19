@@ -1,3 +1,29 @@
-# readme_generator
+# ReadMe-Generator
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+## Description
+
+This project is a command-line readMe file generator application. Using node and inquirer the user is prompted with questions, the Javascript files take in the users answers and generate a readme file. I learned how to install the command-line interface Inquirer using node by typing in "npm install inquirer".
+
+## Installation
+
+### Installations required
+
+-node
+-inquirer
+
+## Usage
+
+Using an instance of terminal that is integrated with the index.js file the user starts the application by typing "node index". This will prompt the user with questions. The answers will be inserted into the dynamically created readme file.
+
+## Link to video
+
+https://drive.google.com/file/d/1egadvPERXw9Q2JB88Z5iyfZrcfFCex8r/view
+
+## Screenshots
+    
+  ![screenshot 1](assets/images/readMe-generator-screenshot1.png)
+
+  ![screenshot 2](assets/images/readMe-generator-screenshot2.png)
+
+  ![screenshot 3](assets/images/readMe-generator-screenshot3.png)
+    

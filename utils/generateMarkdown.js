@@ -34,15 +34,15 @@ function generateMarkdown(data) {
 
   ## Table of Contents 
   
-  * [Description](#Description)
+  * [Description](#description)
   
   * [Installation](#installation)
-  
-  * [Usage](#usage)
-  
+ 
   ${renderLicenseLink(data.license)}
   
   * [Contribute](#contribute)
+
+  * [Usage](#usage)
   
   * [Tests](#tests)
   
@@ -58,6 +58,11 @@ function generateMarkdown(data) {
    ${data.install}
    \`\`\`
   
+   ## Test
+   \`\`\` 
+    ${data.test}
+   \`\`\`
+   
    ## Usage
   
    ${data.use}
@@ -68,13 +73,7 @@ function generateMarkdown(data) {
     
    ${data.contribute}
    
-  
-   ## Test
-  \`\`\` 
-   ${data.test}
-   \`\`\`
-  
-  ## Questions
+   ## Questions
   
    Contact me with any questions.
   
